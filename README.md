@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="docs/commizo_clara.png">
-    <img src="docs/commizo_escura.png" alt="commizo" width="600">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/commizo_escura_sem_fundo.png">
+    <img src="docs/commizo_clara_sem_fundo.png" alt="commizo" width="600">
   </picture>
 </p>
 
